@@ -1,13 +1,7 @@
-# Social Media Signup UI
+# Social Media Signup Page Clone
 
-A responsive authentication page built using HTML and CSS.
-
-## Features
-- Responsive layout
-- Clean UI design
-- Form input fields
-- Modern styling
-
-## Disclaimer
-This project is created for educational and practice purposes only.
-It is not affiliated with any real social media platform.
+⚠️ Disclaimer:
+This project is created purely for educational and practice purposes.
+It is a frontend UI clone built to improve HTML and CSS skills.
+This project is not affiliated with or endorsed by Meta Platforms, Inc.
+All trademarks and copyrights belong to their respective owners.
