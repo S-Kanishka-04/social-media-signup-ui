@@ -57,7 +57,7 @@ This project replicates the **Facebook signup page layout**. Users can input the
 git clone https://github.com/yourusername/facebook-signup-clone.git
 ```
 2. Open the index.html file in a browser.
-```
+
 
 ## **Usage**
 
